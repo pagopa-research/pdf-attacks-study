@@ -1,0 +1,14 @@
+__MACOSX
+.DS_Store
+*.gzip
+*.pdf
+!deliverables/*.pdf
+*.json
+run-*
+logs
+*.bin
+cache_dir
+outputs
+runs
+latest-run
+tags
