@@ -83,4 +83,6 @@ Il progetto è stato realizzato grazie una collaborazione tra il team SecSI dell
 </table>
 
 ## Licenza  
-Il progetto è rilasciato sotto licenza [GPLv3](LICENSE.md).
+Il progetto è rilasciato sotto licenza [BSD-3-Clause](LICENSE.md).
+Per informazioni circa le note di copyright è possibile consultare il file
+[AUTHORS](AUTHORS). 
