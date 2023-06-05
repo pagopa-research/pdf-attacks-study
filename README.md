@@ -71,7 +71,7 @@ Il progetto è stato realizzato grazie una collaborazione tra il team SecSI dell
 <a href="https://github.com/pagopa-research/pdf-attacks-study.git" title="Review">📢</a> 
 </td>
 
-<td align="center"><a href="https://github.com/grausof"><img src="https://avatars.githubusercontent.com/u/442709?v=4" width="100px;" alt=""/><br /><sub><b>Federico Grauso</b></sub></a><br /> 
+<td align="center"><a href="https://github.com/grausof"><img src="https://avatars.githubusercontent.com/u/442709?v=4" width="100px;" alt=""/><br /><sub><b>Francesco Grauso</b></sub></a><br />
 <a href="https://github.com/pagopa-research/pdf-attacks-study.git" title="Design">🎨</a>
 <a href="https://github.com/pagopa-research/pdf-attacks-study.git" title="Review">📢</a> 
 </td>
